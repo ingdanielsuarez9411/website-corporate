@@ -310,7 +310,7 @@ body {
     .shapes__item--shape4 {
         bottom: 24rem;
         left: 45%;
-        animation: MoveShape5 30s infinite;
+        animation: MoveShape4 30s infinite;
     }
 
     @keyframes MoveShape4 {
